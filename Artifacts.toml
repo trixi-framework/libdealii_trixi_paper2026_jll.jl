@@ -6,7 +6,7 @@ os = "macos"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "22d7011667208f61f282a49375c786a69c88a3065c61d3f9155a63f1fad1f035"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "aarch64"
 git-tree-sha1 = "160f314b732c4a83824bb4d6d15dcbc7766518f4"
@@ -15,7 +15,7 @@ os = "macos"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "9ee1a4bc688cbe468422278a8f62c0672d1b4c93b0f204bbd95e7ee035324857"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -26,7 +26,7 @@ os = "linux"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "749da79d76b194ef2dad86d304dbd467803e85c498b0f3588a77d3435d59aa36"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -37,7 +37,7 @@ os = "linux"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "74f2cffbeb8e62a5aca2c5e73c6cf83dfca3794754efa8396867f85897ca3165"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -48,7 +48,7 @@ os = "linux"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "f2f79abd9227e81cc37f4ce4cebabf01802dd67e7b8a619c19d6c84479bbb75f"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "x86_64"
 git-tree-sha1 = "d65497c501ced7f5d5dd84272963b03570b4255e"
@@ -57,7 +57,7 @@ os = "macos"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "273fb638275cf88dc641d4404b37440d0af9d3b0c10d2967fab643d04f5e1631"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "x86_64"
 git-tree-sha1 = "1675c8646e5474d2c3e189b7941db4623cc97caf"
@@ -66,7 +66,7 @@ os = "macos"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "5e3ed1bf678058950b3e533d46ad438caba331ba577f1e91890b2a50a15c5d41"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -77,7 +77,7 @@ os = "linux"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "989edc3db4741647427f6aed743a0153a0fe875132886d0b8d42e0228e07a2f9"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -88,7 +88,7 @@ os = "linux"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "4828d691356160ede24d8a9d2a72fa49289d97b1c7901fa5c0d292bb5544af1c"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[libdealii_trixi_paper2026]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -99,4 +99,4 @@ os = "linux"
 
     [[libdealii_trixi_paper2026.download]]
     sha256 = "65782a121914771e8f62a14806d3b36a869d70ef767f86994db56086af8a82e9"
-    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.1+0/libdealii_trixi_paper2026.v0.1.1.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    url = "https://github.com/trixi-framework/libdealii_trixi_paper2026_jll.jl/releases/download/libdealii_trixi_paper2026-v0.1.2+0/libdealii_trixi_paper2026.v0.1.2.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
